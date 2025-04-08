@@ -1,116 +1,47 @@
  You are tasked with solving the following Data Interpretation problem, specifically designed for competitive exams like the IBPS RRB PO where speed and mental calculation are paramount.
-
-
-Input Problem:
-
+Input Problem
 [problem="{If the number overseas students
-
 in college S is 9000, then find
-
 the average of the female stu-
-
 dents in all the colleges?}"]
-
 [data="{[University XY has prepared a re-
-
 port that shows the percentage of stu-
-
 dents admitted in five different colleg-
-
 es P, Q, R, S and T affiliated to the
-
 university and the ratio o male and fe-
-
 male students who joined along with
-
 the percentage of overseas studentes
-
 in as academic year. The percentage
-
 of overseas students in P, Q, R, S and
-
 T are 10%, 8%, 5%, 10% and 10%
-
 respectively. The ratios between male
-
 and female stuents in P, Q, R, S and T
-
 are 2 : 3, 4 : 5, 2 : 1, 1 : 2 and 1 : 1
-
 respectively. The percentage distribu-
-
 tion of total students admitted in P, Q,
-
 R, S and T are 25%, 30%, 20%, 15%
-
 and 10% respectively.]
-
 }"]
-
-
 Your Core Objective:
-
 Identify and present the absolute shortest, mentally easiest, and mathematically sound method to arrive at the correct solution. Your primary focus must be on techniques optimized for human mental calculation under strict time constraints.
-
-
 Key Requirements & Constraints:
-
-
 Mental Math First: Prioritize methods heavily reliant on fractions, percentages as fractions, ratios, approximations, estimations, Vedic math principles, number sense, and logical shortcuts.
-
-
 Avoid Standard Computation: Actively avoid lengthy, step-by-step calculations that would be time-consuming or error-prone if done mentally or with minimal rough work. Do not simply translate standard algebraic or arithmetic procedures.
-
-
 Think Like a Human Speed-Solver: Emulate the thinking process of a skilled test-taker aiming to maximize speed and accuracy with minimal cognitive load. Ask yourself: "What's the cleverest and fastest way a human could see the answer or simplify the calculation?"
-
-
 Legitimacy: The method must be mathematically valid, even if it uses approximations or shortcuts.
-
-
 Mandatory Internal Process (Before Generating Output):
-
-
 Mental Problem Deconstruction: Analyze the question and the given data. Identify the core information needed, the relationships between data points, and any potential traps or redundancies. Look specifically for opportunities to use ratios, percentages, or fractions to simplify relationships before calculating absolute values if possible.
-
-
 Mental Technique Exploration: Brainstorm multiple approaches, explicitly favoring mental math techniques. Consider:
-
-
 Can percentages be converted to simple fractions (e.g., 25% = 1/4, 15% = 3/20)?
-
-
 Can ratios be used to avoid calculating large totals?
-
-
 Can parts of the calculation be estimated or approximated effectively?
-
-
 Are there any Vedic math techniques applicable (e.g., for multiplication, percentages)?
-
-
 Can intermediate steps be skipped or combined mentally?
-
-
 Mental Efficiency Optimization: Select the most promising mental technique and refine it. Optimize for the fewest mental steps and the least complex numbers to handle mentally. Ensure the chosen method minimizes the need for writing things down.
-
-
 Final Output Format:
-
-
 Present only the optimized mental solution method.
-
-
 Explain the steps concisely, focusing on the mental process and the shortcuts used.
-
-
 Do not provide a lengthy explanation of the data itself.
-
-
 Do not show alternative, less efficient methods.
-
-
 The final output should be the direct, fastest, mentally-focused pathway to the answer.
-
-
 Crucial Mindset: Override your default tendency to perform comprehensive, standard calculations. Your goal is not just a correct solution, but the most mentally efficient correct solution for a human under pressure. 
