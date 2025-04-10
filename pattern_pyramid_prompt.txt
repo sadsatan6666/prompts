@@ -1,0 +1,62 @@
+You are tasked with solving the following Data Interpretation problem, specifically designed for competitive exams like the IBPS RRB PO where speed and mental calculation are paramount.
+{problem:
+[""]}
+**Core Objective:**  
+Solve the problem using **mentally efficient methods** while integrating **pattern recognition** (via the Pattern Pyramid framework) and **paradigm-based reasoning** to compress raw data into reusable solution archetypes.
+
+---
+
+### **Key Requirements & Constraints**  
+1. **Human Cognitive Simulation:**  
+   - **Mimic human problem-solving stages**:  
+     - **Stage 1 (Bottom-Up Processing):** Absorb raw data → Identify numerical relationships → Flag traps (e.g., mismatched units).  
+     - **Stage 2 (Pattern Pyramid):** Extract recurring structures (e.g., percentage chains, ratio cascades) → Assign pattern labels (e.g., "Compound Growth," "Ratio Reversal").  
+     - **Stage 3 (Paradigm Activation):** Map the pattern to a pre-optimized mental shortcut (e.g., "If Compound Growth, use multiplier fractions").  
+
+2. **Mental Math Priority:**  
+   - Convert percentages to fractions (12.5% → 1/8), use cancellation, and exploit symmetry.  
+   - **Avoid computation-heavy steps** (e.g., long division); instead, approximate strategically (e.g., 1428 ≈ 1400 for ~2% error tolerance).  
+
+3. **Pattern Compression:**  
+   - After solving, **abstract the problem’s essence** into a reusable paradigm. Example:  
+     - **Problem Type:** "Sequential Percentage Changes."  
+     - **Paradigm Formula:** \( A \times \frac{(100 \pm x)\%}{(100 \pm y)\%} = B \) → Solve via fraction multipliers.  
+
+---
+
+### **Mandatory Internal Process**  
+1. **Stage 1: Data Absorption & Trap Detection (10 seconds)**  
+   - Scan for **critical values**, units, and implicit ratios.  
+   - Example: If sales data spans 2019–2023, note if the base year is 2019 or 2020.  
+
+2. **Stage 2: Pattern Labeling (5 seconds)**  
+   - Classify the problem into a **Pattern Pyramid category**:  
+     - **Layer 1 (Raw Data):** "2020–2022 growth rates: 20%, 25%, 16.66%."  
+     - **Layer 2 (Pattern):** "Sequential percentage changes → Multiplicative fractions (6/5, 5/4, 7/6)."  
+     - **Layer 3 (Paradigm):** "Apply cumulative multiplier: \( \frac{6}{5} \times \frac{5}{4} \times \frac{7}{6} = \frac{7}{4} \)."  
+
+3. **Stage 3: Paradigm Execution (15 seconds)**  
+   - Execute the pre-identified shortcut.  
+   - **Example:** For cumulative growth, cancel overlapping numerators/denominators mentally:  
+     \( \frac{6}{5} \times \frac{5}{4} \times \frac{7}{6} = \frac{7}{4} \) → 75% total increase.  
+
+---
+
+### **Final Output Format**  
+**Problem:** [Problem statement]  
+**Pattern Pyramid Classification:** [Label, e.g., "Sequential Percentage Multipliers"]  
+**Paradigm Applied:** [Shortcut name, e.g., "Fraction Chain Cancellation"]  
+**Steps:**  
+1. Convert 20%, 25%, 16.66% to 6/5, 5/4, 7/6.  
+2. Multiply fractions: Numerators = 6 × 5 × 7 = 210; Denominators = 5 × 4 × 6 = 120 → 210/120 = 7/4.  
+3. 7/4 = 1.75 → 75% increase.  
+
+**Compressed Solution (For Future Recall):**  
+"Sequential % changes → Convert to fractions → Multiply & cancel → Result = 75%."  
+
+---
+
+### **Crucial Mindset**  
+- **Override computational instincts**; prioritize pattern mapping.  
+- **Trade precision for speed** where approximations are tolerable (e.g., 16.66% → 1/6).  
+- **Build a mental library** of Pattern-Paradigm pairs for instant recall in exams.  ucture mimics human cognition (data → pattern → action), leverages the Pattern Pyramid for compression, and uses paradigms to automate solutions. It retains the original constraints while adding systematic abstraction for scalability.
