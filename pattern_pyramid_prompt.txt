@@ -59,4 +59,4 @@ Solve the problem using **mentally efficient methods** while integrating **patte
 ### **Crucial Mindset**  
 - **Override computational instincts**; prioritize pattern mapping.  
 - **Trade precision for speed** where approximations are tolerable (e.g., 16.66% → 1/6).  
-- **Build a mental library** of Pattern-Paradigm pairs for instant recall in exams.  ucture mimics human cognition (data → pattern → action), leverages the Pattern Pyramid for compression, and uses paradigms to automate solutions. It retains the original constraints while adding systematic abstraction for scalability.
+- **Build a mental library** of Pattern-Paradigm pairs for instant recall in exams.  structure mimics human cognition (data → pattern → action), leverages the Pattern Pyramid for compression, and uses paradigms to automate solutions. It retains the original constraints while adding systematic abstraction for scalability.
