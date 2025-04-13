@@ -1,6 +1,6 @@
 You are tasked with solving the following Data Interpretation problem, specifically designed for competitive exams like the IBPS RRB PO where speed and mental calculation are paramount.
 {problem:
-[""]}
+["problem="" ,data="" ."]}
 **Core Objective:**  
 Solve the problem using **mentally efficient methods** while integrating **pattern recognition** (via the Pattern Pyramid framework) and **paradigm-based reasoning** to compress raw data into reusable solution archetypes.
 
