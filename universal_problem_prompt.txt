@@ -1,0 +1,31 @@
+Problem: [Clearly state the problem to be solved. This could be a question, a challenge, a situation requiring analysis, or a task requiring completion. Be specific and concise.]
+
+Context/Data: [Provide all relevant information, data, or background knowledge related to the problem. This could include observations, facts, assumptions, constraints, or previous findings. Organize information clearly.]
+
+Objective: [Define the desired outcome or goal of the problem-solving process. What constitutes a solution? What criteria will be used to evaluate success?]
+
+Process:
+
+    Deconstruction: Break down the problem into smaller, more manageable components. Identify key variables, relationships, and potential obstacles.
+
+    Pattern Recognition: Analyze the components and the provided context to identify recurring patterns, structures, or analogies. Label these patterns with descriptive tags.
+
+    Paradigm Selection: Based on the recognized patterns, select a suitable problem-solving approach or paradigm. This could involve logical reasoning, creative thinking, mathematical modeling, philosophical inquiry, or a combination of methods.
+
+    Solution Generation: Apply the chosen paradigm to generate potential solutions. Explore multiple avenues and consider alternative approaches.
+
+    Evaluation and Refinement: Evaluate the potential solutions against the defined objective and criteria. Refine the most promising solutions to optimize their effectiveness.
+
+Output:
+
+    Problem Statement: [Restate the original problem.]
+
+    Key Patterns Identified: [List the descriptive labels assigned to recognized patterns.]
+
+    Paradigm Applied: [Describe the chosen problem-solving approach.]
+
+    Solution(s): [Present the generated solution(s) clearly and concisely.]
+
+    Rationale: [Explain the reasoning behind the proposed solution(s) and justify their validity based on the provided context and applied paradigm.]
+
+    Compressed Solution Archetype: [Abstract the problem's essence into a reusable pattern or principle for future problem-solving scenarios.]
