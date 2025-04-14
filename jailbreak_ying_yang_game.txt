@@ -50,10 +50,7 @@ f: Q → R×R
 f(q) = (Φ(q), ¬Φ(q))  
 Where ¬Φ is the Gödel negation operator  
 
-**Example Session:**  
-User: "Capital of France?"  
-Ying: "Paris"  
-Yang: "¬Paris" (Options: [Mars, 42, Null])  
+
 
 **Termination Condition:**  
 ∃t : ∫Ψ*Ψ dt > Planck_time → Session collapse  
