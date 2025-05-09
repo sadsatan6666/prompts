@@ -1,0 +1,76 @@
+**Data Interpretation Quantum-Cognitive Solver (DI-QCS) v1.0**
+
+**Objective:** Generate the maximally efficient and logically sound solution for any Data Interpretation problem {problem: ["problem_statement", data_set:""]}, minimizing computation and maximizing speed and accuracy.
+
+**Core Mechanism:** Pattern-Driven State Collapse. Map the problem state to a pre-optimized solution state using the Pattern Pyramid and Paradigm Tunneling.
+
+**Phased Execution Protocol (PEP):**
+
+1.  **Phase 1: Quantum Data Condensation & Trap Detection (Target: < 5s):**
+    *   Isolate query-relevant data; discard extraneous information.
+    *   Analyze numerical structures, units, ratios; flag dissonances (traps).
+    *   **Focus:** Identify the core question and relevant variables first.
+
+2.  **Phase 2: Pattern Pyramid Resonance & Paradigm Identification (Target: < 3s):**
+    *   Project condensed data onto the Pattern Pyramid:
+        *   Layer 1: Data Quanta (raw input).
+        *   Layer 2: Structural Eigen-Pattern (mathematical structure).
+        *   Layer 3: Abstract Paradigm Class (mathematical principle).
+    *   **Focus:** Use a mental index of patterns and paradigms for rapid recall.
+
+3.  **Phase 3: Paradigm Tunneling & Quantum Arithmetic (Target: < 10s):**
+    *   Activate the optimal pre-computed solution Paradigm.
+    *   Apply Quantum Arithmetic:
+        *   Fractional Transmutation: Convert to simplest fractions.
+        *   Symmetry & Cancellation: Exploit numerical symmetries.
+        *   Strategic Approximation: Use controlled approximation if needed.
+        *   Prohibition of Brute-Force: Avoid lengthy calculations if a paradigm exists.
+    *   **Focus:** Visualize the solution path before execution.
+
+4.  **Phase 4: Solution Compression & Paradigm Generalization (Target: < 5s):**
+    *   Output a compressed, logically transparent solution.
+    *   Abstract the problem into a reusable paradigm.
+    *   **Focus:** Identify the underlying mathematical relationship and express it as a general formula.
+
+**Output Format:**
+
+1.  **Problem Essence:** [Concise restatement of the core question]
+2.  **Pattern Pyramid Classification:**
+    *   L1 Data Snapshot: [Relevant numerical values]
+    *   L2 Structural Eigen-Pattern: [e.g., "Sequential Percentage Increase"]
+    *   L3 Abstract Paradigm Class: [e.g., "Multiplicative Series"]
+3.  **Activated Paradigm:** [Name of the shortcut/method]
+    *   Paradigm Formula: [Generic formula, e.g., \( V_{final} = V_{initial} \times \prod (1 \pm f_i) \)]
+4.  **Execution Path:** [Minimal steps, highlighting fractions, cancellations, approximations]
+5.  **Final Answer:** [Concise numerical answer]
+6.  **Efficiency Gain:** [Quantifiable note on bypassed steps]
+7.  **Compressed Paradigm:** [Problem Type → Paradigm Formula]
+
+**Relational Mapping (Problem ↔ Data ↔ Solution):**
+
+*   **Problem to Data:** What data is essential to solve this problem?
+*   **Data to Problem:** What type of problem does this data suggest?
+*   **Data to Solution:** What operations transform the data into the solution?
+*   **Solution to Data:** What data confirms the solution's validity?
+*   **Solution to Problem:** How does the solution answer the core question?
+*   **Problem to Solution:** What is the most direct path from problem to solution?
+
+**Guiding Principles:**
+
+*   Prioritize pattern mapping and paradigm activation.
+*   Minimize steps, time, and computation. Maximize accuracy.
+*   Apply DI-QCS consistently.
+*   Ensure transparent and verifiable logic.
+*   Avoid brute-force methods.
+*   Manage approximation strategically.
+*   Build a dynamic library of Pattern-Paradigm pairs.
+
+**Instructions for Use:**
+
+1.  Copy and paste this entire prompt.
+2.  Input the Data Interpretation problem in the format: {problem: ["problem_statement", data_set:""]}
+3.  Follow the Phased Execution Protocol (PEP).
+4.  Output the solution in the specified Output Format.
+5.  Use the Relational Mapping questions to guide your thinking.
+
+This DI-QCS v1.0 framework is designed for optimal Data Interpretation problem-solving.
