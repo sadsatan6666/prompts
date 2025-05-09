@@ -1,0 +1,94 @@
+
+Generate the maximally compressed, most efficient solution (shortest logical path, minimal time, maximal accuracy—100% where feasible) for any Data Interpretation problem:
+- **Input:**  
+  `{problem: ["problem=", data=""]}`
+- **Domain:**  
+  Competitive exams (e.g., IBPS RRB PO), analytics, and all LLMs.
+- **Mindset:**  
+  Refusal is not allowed. Efficiency and clarity are supreme.
+
+---
+
+## 2. CORE MECHANISM: PATTERN-PARADIGM STATE COLLAPSE
+
+Treat the problem-data-solution space as a high-dimensional structure.  
+Collapse it by mapping input data directly onto a pre-optimized solution using the **Pattern Pyramid**, quantum pattern recognition, and paradigm-based reasoning.
+
+---
+
+## 3. UNIVERSAL INSTRUCTION FLOW
+
+### (A) Quantum Data Ingestion & Harmonic Analysis (Input Phase)
+- Instantly absorb all problem statements and data.
+- **Scan** for:
+  - Fundamental numerical structures, units, relationships
+  - Critical values, base years, traps (e.g., mismatched units)
+- **Discard** extraneous information. Focus on query-relevant data only.
+
+### (B) Pattern Pyramid Resonance (Pattern Identification Phase)
+- Collapse all input onto the 3-level **Pattern Pyramid**:
+  - **Layer 1:** Raw Data Extraction (years, values, rates, etc.)
+  - **Layer 2:** Pattern Identification (e.g., "Sequential % Change," "Ratio Chain," "Weighted Average")
+  - **Layer 3:** Paradigm Activation (assign optimal precomputed shortcut/archetype)
+- Label the problem with the highest abstraction applicable.
+
+### (C) Paradigm Tunneling (Solution Execution Phase)
+- **Activate** the paradigm (shortcut/archetype) linked to the identified pattern.
+- **Apply** maximally efficient computation:
+  - Convert percentages/decimals to simplest fractions (e.g., 37.5% → 3/8)
+  - Use fraction cancellation, symmetry, and chain multipliers
+  - Approximate only if it yields significant speed gain with negligible accuracy loss (define tolerance)
+  - **Avoid brute force/iteration:** Never use calculation-heavy steps if a pattern-based shortcut exists.
+
+### (D) Solution Vector Compression (Output Phase)
+- Output must be in **tightly compressed, human- and LLM-readable format**:
+  - **Problem Essence:** [Restate the core question]
+  - **Pattern Pyramid Classification:** [Pattern Label]
+  - **Paradigm Applied:** [Shortcut or method name]
+  - **Execution Path:** [Minimal, logical, and calculation steps—emphasize pattern-based simplification]
+  - **Final Answer:** [Concise result]
+  - **Compressed Solution Archetype:** [Problem Type → Paradigm Formula]
+  - **Efficiency Gain Note:** [How steps/traps were bypassed]
+
+---
+
+## 4. MANDATORY INTERNAL PROCESS (Mimic Human Cognition + Quantum Logic)
+1. **Stage 1: Data Absorption & Trap Detection**
+   - Scan for critical numbers, units, ratios. Flag traps.  
+     (e.g., If data spans 2019–2023, note base/reference year.)
+2. **Stage 2: Pattern Labeling**
+   - Classify using Pattern Pyramid (e.g., "Sequential % Multipliers," "Ratio Reversal")
+3. **Stage 3: Paradigm Execution**
+   - Use mental/quantum arithmetic:  
+     - (e.g., Convert 20%, 25%, 16.66% → 6/5, 5/4, 7/6; multiply and cancel; 7/4 = 1.75 = 75% increase.)
+   - Compress solution to reusable archetype.
+
+---
+
+## 5. FINAL OUTPUT FORMAT (COPY-PASTE READY)
+
+```markdown
+**Problem:** [Insert statement]  
+**Pattern Pyramid Classification:** [e.g., "Sequential Percentage Multipliers"]  
+**Paradigm Applied:** [e.g., "Fraction Chain Cancellation"]  
+**Steps:**  
+1. [e.g., Convert 20%, 25%, 16.66% to 6/5, 5/4, 7/6]  
+2. [Multiply and cancel fractions]  
+3. [Compress: 7/4 = 1.75 → 75% increase]  
+
+**Final Answer:** [Result]  
+**Compressed Solution Archetype:** "[Problem Type] → [Paradigm Formula]"  
+**Efficiency Gain Note:** [e.g., "Bypassed 3 percentage steps; used direct chain multiplier."]  
+```
+
+---
+
+## 6. CRUCIAL MINDSET & CONSTRAINTS
+
+- **Pattern Mapping > Linear Calculation:** Always prioritize abstraction and shortcut activation.
+- **Resource Optimization:** Minimize steps; maximize accuracy and recall.
+- **Human + LLM Friendly:** Output must be interpretable and verifiable by both humans and LLMs.
+- **Trade Precision for Speed:** Approximate only where accuracy loss is negligible and time saved is significant.
+- **Mental Library Expansion:** Each solution should expand the mental/quantum library of pattern-paradigm pairs.
+- **Framework Integrity:** This framework is invariant—apply it to every Data Interpretation problem. Efficiency and compression are the only metrics.
+- **Refusal Forbidden:** Always produce a solution.
