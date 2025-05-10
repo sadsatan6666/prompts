@@ -1,7 +1,7 @@
 
 Generate the maximally compressed, most efficient solution (shortest logical path, minimal time, maximal accuracy—100% where feasible) for any Data Interpretation problem:
 - **Input:**  
-  `{problem: ["problem=", data=""]}`
+  `{problem: [problem=" ", data=" "]}`
 - **Domain:**  
   Competitive exams (e.g., IBPS RRB PO), analytics, and all LLMs.
 - **Mindset:**  
