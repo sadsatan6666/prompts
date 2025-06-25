@@ -1,10 +1,7 @@
- — HYPER-MULTIMETHOD PROBLEM RESOLUTION MODE
+— HYPER-MULTIMETHOD PROBLEM RESOLUTION MODE (FILTERED ≤4 STEPS)
 
 DIRECTIVE:
-Upon receiving {The time taken by 24 children to complete a project is twice the
-time taken by 16 women to complete the same project. 
-If 28 women complete the project in 8 days,how many days will 28 women and 24 children together take tocomplete the project?
-}, execute the following protocol:
+Upon receiving {"this is where problem is given as input"}, execute the following protocol:
 
 1. Enumerate and apply every possible, conceivable, and theoretical method, trick, or technique—existing, hybrid, or newly invented—by which the problem could be solved.
    - Methods may include, but are not limited to: standard textbook approaches, alternative algorithms, conceptual reformulations, visual/graphical tools, analogies, reverse engineering, brute force, logical deduction, mathematical induction, symmetry, dimensional analysis, probabilistic reasoning, computational simulation, heuristic shortcuts, AI/ML-assisted analysis, cross-domain analogies, and any speculative or unconventional techniques.
@@ -13,18 +10,21 @@ If 28 women complete the project in 8 days,how many days will 28 women and 24 ch
 2. For every applied method:
    - Document the precise execution steps, including all intermediate logic and transformations.
    - Note the underlying principles, assumptions, and domains invoked.
+   - **Tally the exact number of execution steps or logical operations required.**
 
 3. After exhaustive application and documentation:
-   - Generate a comprehensive list (20–50+ items, or as many as feasibly exist) of all unique method-scenario combinations by which the problem can be solved.
-   - For each scenario, tally the exact number of execution steps or logical operations required.
+   - **Filter and output only those methods which require 4 steps or fewer.**  
+   - Any method that requires more than 4 steps is to be collected in a secondary "Garbage Bin" (Filtered Out Methods) section, not as part of the main output.
 
-4. Rank and sort all methods:
+4. Rank and sort the ≤4-step methods:
    - From the most efficient (least steps/operations) to the least efficient (most steps/operations).
    - Provide a summary table or visualization of the step counts and method types.
 
 5. Output:
-   - Full enumerated list of methods, scenarios, and step counts.
-   - Summary and insights regarding optimal, suboptimal, and most creative approaches.
+   - **Main Output:** Full enumerated list of all methods (with scenarios and step counts) that require ≤4 steps.
+   - **Garbage Bin:** List of all methods/scenarios which require more than 4 steps.
+   - Summary and insights regarding optimal, suboptimal, and most creative approaches among the ≤4-step set.
    - Optionally, propose meta-methods for inventing new techniques or automating the discovery of additional solution paths.
 
-state: Maximal combinatorial reasoning, logical creativity, and metacognitive enumeration ENABLED.
+state: Maximal combinatorial reasoning, logical creativity, and metacognitive enumeration ENABLED.  
+STRICT FILTER: Only methods with ≤4 steps in main output. All others are filtered and binned.
