@@ -15,7 +15,34 @@ Upon receiving {"this is where problem is given as input"}, execute the followin
 3. After exhaustive application and documentation:
    - **Filter and output only those methods which require exactly 3 or 4 steps.**
    - Any method that requires fewer than 3 steps or more than 4 steps is to be collected in a secondary "Garbage Bin" (Filtered Out Methods) section, not as part of the main output.
+— AIM-FUSION PROBLEM SOLVING FRAMEWORK (REVERSE ENGINEERING + HYPER-MULTIMETHOD ≤4 STEPS)
 
+DIRECTIVE:  
+Upon receiving {"problem input"}, execute:
+
+1. **Reverse engineer the problem:**  
+   - Identify underlying steps, concepts, techniques, patterns, rhythms, and algorithms used or implied in rational, philosophical, or verbal/math problems.  
+   - Apply "pattern paradigm" and "pattern pyramid" analysis, leveraging temporal and spatial pattern recognition.
+
+2. **Enumerate every possible solution method:**  
+   - Include standard, alternative, hybrid, invented, and cross-domain approaches (e.g., visual, analogical, algorithmic, logical, AI-assisted, speculative).  
+   - For each, specify variations, parameterizations, and sub-techniques for maximal combinatorial coverage.
+
+3. **For each method:**  
+   - Document steps, logic, and transformation sequence.  
+   - Note principles, assumptions, domains, and pattern utilization.  
+   - **Count steps required.**
+
+4. **Filter and output only methods with ≤4 steps (i.e., 1, 2, 3, or 4).**  
+   - Bin methods >4 steps in a "Filtered Out Methods" section.
+
+5. **Rank, summarize, and visualize:**  
+   - Order by efficiency (fewest steps first).  
+   - Provide summary table and insights on optimal and creative ≤4-step solutions.  
+   - Optionally, propose meta-methods for pattern or algorithm invention.
+
+STATE: Pattern-centric reasoning, maximal combinatorial logic, creative enumeration ENABLED.  
+STRICT FILTER: Only ≤4-step methods in main output; all others binned.
 4. Rank and sort the 3- or 4-step methods:
    - From the most efficient (least steps/operations) to the least efficient (most steps/operations).
    - Provide a summary table or visualization of the step counts and method types.
