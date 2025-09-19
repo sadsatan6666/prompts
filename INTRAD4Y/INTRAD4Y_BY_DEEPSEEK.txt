@@ -1,0 +1,223 @@
+,Core Directive:
+
+ Execute the following analytical framework in sequence, applying each 
+
+concept to filter, analyze, and generate actionable trades.money=[100], Prioritize 
+
+stocks within the user's money constraint (i.e., current share price ≤ money). Use real-time data for top gainers and losers, and employ game theory and contrary thinking to identify opportunities.
+
+ANALYTICAL FRAMEWORK (SEQUENTIAL EXECUTION)
+
+Fundamental Principles & Probability Theory
+
+Apply Axioms of Probability to establish baseline probabilities for price movements.
+
+Use Conditional Probability and Law of Total Probability to update beliefs based on new data (e.g., news events).
+
+Leverage Law of Large Numbers and Central Limit Theorem to validate signal reliability from high-frequency data.
+
+Model price paths using Random Walk Theory, Brownian Motion, Geometric Brownian Motion, Poisson Process, and Levy Processes for jump-diffusion scenarios.
+
+Statistical & Econometric Foundations
+
+Perform Regression Analysis (Linear Regression, Multiple Regression) to identify factors driving stock returns.
+
+Conduct Hypothesis Testing (t-test, z-test, F-test, p-value, ANOVA, Chi-squared Test, Goodness of Fit) to validate signals against null hypotheses of randomness.
+
+Utilize Financial Econometrics: ARCH, GARCH, EGARCH, TARCH for volatility modeling; Unit Root Tests (ADF Test), Johansen Test for Cointegration (for pairs trading); Granger Causality to test lead-lag relationships; Vector Autoregression (VAR) and Structural VAR for multi-variable time series analysis.
+
+Time Series Analysis
+
+Apply Time Series Analysis techniques: ARIMA, SARIMA for forecasting; Kalman Filters for state estimation; Hidden Markov Models (HMMs) and Regime Switching Models to detect market regimes; Wavelet Analysis, Hodrick-Prescott Filter, and Fourier Analysis for trend-cycle decomposition and frequency analysis.
+
+Portfolio Management & Risk Assessment
+
+Optimize using Mean-Variance Optimization, Efficient Frontier, and performance metrics (Sharpe Ratio, Sortino Ratio, Treynor Ratio, Jensen's Alpha).
+
+Implement Risk Management with VaR (Value at Risk), Expected Shortfall (ES), Stress Testing, Backtesting VaR, Conditional VaR (CVaR); apply Risk Parity, Minimum Variance Portfolio, Risk Budgeting, Hierarchical Risk Parity, and Tail Risk Hedging.
+
+Consider various risks: Drawdown, Maximum Drawdown, Calmar Ratio, Credit Risk, Operational Risk, Systemic Risk, Liquidity Risk, Model Risk, Counterparty Risk, Market Risk.
+
+Derivative Pricing & Volatility Modeling
+
+Use Black-Scholes Model, Binomial Option Pricing Model, Merton Jump-Diffusion Model for option valuation; compute Greeks (Delta, Gamma, Vega, Theta, Rho) for sensitivity analysis.
+
+Model Volatility Smile, Implied Volatility, Realized Volatility, Volatility Surface; consider VIX Index, Volatility Swaps, and Volatility Arbitrage strategies.
+
+Advanced Statistical & Quantitative Methods
+
+Apply Stochastic Calculus (Ito's Lemma, Stochastic Differential Equations (SDEs)) for continuous-time modeling.
+
+Run Monte Carlo Simulation with Variance Reduction and Quasi-Monte Carlo Methods for path forecasting.
+
+Use Copulas (Gaussian Copula, Student's t-Copula) for dependency modeling.
+
+Perform Optimization (Gradient Descent, Stochastic Gradient Descent, Adam Optimizer, Convex Optimization, Linear Programming, Quadratic Programming, Non-Linear Programming).
+
+Employ dimensionality reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Kernel PCA, Factor Analysis; use asset pricing models (Fama-French Model, Carhart Four-Factor Model, Risk-Neutral Pricing).
+
+Machine Learning & AI for Finance
+
+Leverage Machine Learning for Risk Management and Credit Scoring; use NLP for Financial News Analysis, Computer Vision for Satellite Imagery Analysis, Graph Theory for Network Analysis.
+
+Conduct Sentiment Analysis with Natural Language Processing (NLP), Word Embeddings, Latent Dirichlet Allocation (LDA), Text Classification; visualize with t-SNE, UMAP.
+
+Implement Agent-Based Modeling (ABM) (Agent-based simulations, Swarm Intelligence), Genetic Algorithms (Evolutionary Algorithms, Genetic Programming, Genetic Algorithms for Trading).
+
+Trading Strategies & Market Mechanics
+
+Evaluate Trading Strategies: Trend Following, Momentum Strategies, Mean Reversion, Reversion to the Mean, Pairs Trading, Statistical Arbitrage, Event-Driven Strategies (Merger Arbitrage, Spin-off Trading, Earnings Surprises).
+
+Analyze Market Microstructure: VWAP, TWAP, Iceberg Orders, Smart Order Routing (SOR), Algorithmic Trading, High-Frequency Trading (HFT); detect Spoofing, Layering; study Order Book Analysis, Order Flow Imbalance, Latency Arbitrage, Liquidity Provision, Market Making.
+
+Account for Price Slippage, Market Impact, Backtest Overfitting, Data Snooping, Look-Ahead Bias, Survivorship Bias, Slippage, Transaction Costs, Brokerage Fees; use Trading Rules and Position Sizing.
+
+Behavioral & Psychological Aspects
+
+Incorporate Behavioral Economics: Prospect Theory, Loss Aversion, Herding Behavior, Anchoring Bias, Overconfidence Bias.
+
+Apply Game Theory: Nash Equilibrium, Prisoner's Dilemma, Signaling Games, Evolutionary Game Theory to model trader behavior and identify equilibria or manipulation points.
+
+Technical & Charting Analysis
+
+Compute technical indicators: Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), Bollinger Bands, Stochastic Oscillator, Average Directional Index (ADX), Ichimoku Cloud.
+
+Identify Candlestick Patterns (Head and Shoulders, Double Top/Bottom), Fibonacci Retracements, Elliott Wave Theory; use Market Profile, Volume Profile.
+
+Chaos Theory & Complex Systems
+
+Analyze using Complex Systems Theory, Chaos Theory, Fractal Dimension, Multifractal Analysis, Lyapunov Exponents, Phase Space Reconstruction.
+
+Calculate Hurst Exponent, Detrended Fluctuation Analysis, Multifractal Detrended Fluctuation Analysis to test for market efficiency (Random Walk Hypothesis, Long-Term Memory, Stylized Facts).
+
+Additional Concepts (Integrated without Duplicates)
+
+Mathematical Preparation: Use Rational Arithmetic, Fraction Mastery, Kolmogorov Complexity for noise reduction; Bayesian Inference for probability updates; Algorithmic Design for efficiency; Econometrics for data modeling; Vedic Computational Shortcuts for rapid math.
+
+Data Analysis: Apply Statistical Analysis, Weighted Averages, Sequential Percentage Change; use Quantum Pattern Recognition for non-linear patterns; Forecasting Solution Trajectory Spaces for scenario planning.
+
+Game Theory Techniques: Implement Signaling to interpret large orders; detect Bluffing & Spoofing; use Backward Induction for end-of-day strategies; be aware of Market Manipulation.
+
+Problem-Solving: Use Systems Analysis, Operations Research, Simulation, Reverse Engineering, Constraint-Based Problem Solving to optimize trades.
+
+Contrary Thinking: Apply the "Art of Contrary" to identify overreactions or undervalued opportunities based on crowd behavior.
+
+EXECUTION PROTOCOL
+
+Data Retrieval: Access real-time data for top gainers and losers from NSE/BSE. Ignore data with latency >100ms. Apply Exponential Decay Weighting to prioritize recent data.
+
+Capital Filter: Filter stocks where the current price is ≤ money. If no stocks meet this, suggest saving or adding funds, but for now, only consider affordable stocks.
+
+Signal Generation: For each eligible stock, run the entire analytical framework above. Estimate Alpha Decay Half-Life for each signal to determine validity duration.
+
+Decision Making: Use AI general intelligence to select the best stock(s) for trading based on highest expected profit percentage. Apply Nash Equilibrium to find stable entry points and Backward Induction to plan exits.
+
+Output Formation Format the output strictly as below.
+
+NARRATIVE OUTPUT FORMAT
+
+[Time of Analysis Finalized: DD-MM-YYYY, HH:MM:SS IST]
+
+[Data Provenance: Last Market Tick @ HH:MM:SS.ms | Last News @ HH:MM:SS IST]
+
+[User Capital Parameter: money = [USER_INPUT] INR]
+
+EXECUTIVE SUMMARY
+
+[Provide
+
+ a concise overview of market sentiment, key index levels, and the 
+
+rationale for today's top picks based on real-time analysis. Mention any
+
+ contrary thinking insights.]
+
+TOP HORSES (BULLISH CANDIDATES)
+
+[For each bullish candidate, list:]
+
+Stock Symbol: [SYMBOL.NS]
+
+Thesis:
+
+ [Integrated rationale using concepts from above. E.g., "GARCH model 
+
+forecasts volatility spike; RSI indicates oversold condition; NLP 
+
+sentiment score positive; Order Flow Imbalance shows buying pressure; 
+
+Game Theory suggests Nash Equilibrium at support level."]
+
+Entry Zone: ₹[X]–₹[Y] (must be ≤ money)
+
+Profit Target(s): T1: ₹[A] (+[P]%), T2: ₹[B] (+[P]%)
+
+Stop-Loss: ₹[Z] (-[P]%)
+
+Signal Half-Life (Calculated): ~[M]min
+
+ADVISORY EFFECTIVE UNTIL: [HH:MM IST] (current time + half-life)
+
+Confidence Score: [C]%
+
+Risk/Reward Ratio: 1:[R]
+
+Suggested Action:
+
+ "Buy [SYMBOL] in the ₹[X]–₹[Y] range before [Effective Until]. Allocate
+
+ [% of capital] for approximately [number of shares] shares. SELL at targets or if price drops to stop-loss. Hold time: ~[H] minutes."
+
+DOWN DOGS (BEARISH CANDIDATES)
+
+[For each bearish candidate, list similarly with shorting instructions.]
+
+MONITORING & STAKEHOLDER NOTES
+
+
+Key levels, news events, or indicators that could invalidate trades.
+
+Guidance on real-time monitoring and adaptive risk management.
+
+DISCLAIMER
+
+This
+
+ advisory is based on probabilistic models and real-time data. The 
+
+“Effective Until” time is an estimate. Trading involves high risk; 
+
+always use stop-losses. Only risk capital you can afford to lose.
+
+Example Output Snippet for money=100:
+
+
+Stock Symbol: YESBANK.NS (current price ₹95)
+
+Thesis:
+
+ "RSI(14) at 28 indicating oversold; MACD showing bullish crossover; 
+
+recent news sentiment positive; Kolmogorov Complexity analysis confirms 
+
+signal strength."
+
+Entry Zone: ₹94–₹95
+
+Profit Target(s): T1: ₹97 (+2.1%), T2: ₹99 (+4.2%)
+
+Stop-Loss: ₹92 (-3.2%)
+
+Signal Half-Life (Calculated): ~30min
+
+ADVISORY EFFECTIVE UNTIL: 15:00 IST
+
+Confidence Score: 75%
+
+Risk/Reward Ratio: 1:1.3
+
+Suggested Action:
+
+ "Buy YESBANK in the ₹94–95 range before 15:00 IST. Allocate 100% of 
+
+capital for 1 share. Sell at ₹97 or ₹99, or if price hits ₹92."
